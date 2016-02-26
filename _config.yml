@@ -1,0 +1,28 @@
+name: DETAiLFILM
+favicon: null
+layout_spectrum: 0.08834755630232394
+typography_spectrum: 0.28879739926196635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.044866385171189904
+  lightness: 0.8226558652240783
+  saturation: 0.24286452867090702
+  rhythmicContrast: 0.9898170179221779
+purpose: []
