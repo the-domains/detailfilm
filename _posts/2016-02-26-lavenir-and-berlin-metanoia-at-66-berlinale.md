@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T17:45:27.362Z'
-dateModified: '2016-02-26T17:45:08.346Z'
+datePublished: '2016-02-26T17:48:57.912Z'
+dateModified: '2016-02-26T17:45:30.279Z'
 title: L’AVENIR and BERLIN METANOIA at 66. Berlinale
 author: []
+sourcePath: _posts/2016-02-26-lavenir-and-berlin-metanoia-at-66-berlinale.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-lavenir-and-berlin-metanoia-at-66-berlinale.md
-published: true
 url: lavenir-and-berlin-metanoia-at-66-berlinale/index.html
 _type: Article
 
