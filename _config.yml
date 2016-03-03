@@ -1,7 +1,7 @@
 name: DETAiLFILM
 favicon: null
-layout_spectrum: 0.68448
-typography_spectrum: 0.58097
+layout_spectrum: 0.00501
+typography_spectrum: 0.26544
 title: DETAiLFILM
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.375
-  lightness: 0.6875
-  saturation: 0.4375
+    - '#f2f1ed'
+    - '#060606'
+    - '#7f7f7f'
+    - '#515151'
+    - '#f90008'
+  brandStrength: 0.4375
+  lightness: 0.8125
+  saturation: 0.375
   rhythmicContrast: 1
 purpose: []
